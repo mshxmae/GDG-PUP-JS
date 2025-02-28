@@ -5,6 +5,7 @@
 ********************/
 
 
+
 /********************
  Step 2: Create a Function to Demonstrate Function Scope
  - Define a function (e.g., demoFunctionScope).
